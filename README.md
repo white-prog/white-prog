@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @white-prog
 - 👀 I’m interested in computer science, problem-solving, independent research and exploring multiple scientific disciplines like math, biology, chemistry and physics.
-- 🌱 I’m currently learning by doing hands-on projects like data structure and algorithm in c, applying python to real world scientific computations etc.
+- 🌱 I’m currently learning by doing hands-on projects like data structure and algorithm in c, applying python to real world scientific computation etc.
 - 💞️ I’m looking to collaborate on open-source projects, bug bounty challenges, and science-based programs.
 - 📫 How to reach me: Here for now!
 - 😄 Pronouns: I don't care
